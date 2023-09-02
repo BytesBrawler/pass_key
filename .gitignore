@@ -31,7 +31,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-pubspeck.lock
+.pubspeck.lock
 
 # Symbolication related
 app.*.symbols
@@ -45,6 +45,6 @@ app.*.map.json
 /android/app/release
 
 # server files
-  /server/node_modules
+  /server/node_modules/
   /server/.env
   /server/package-lock.json
